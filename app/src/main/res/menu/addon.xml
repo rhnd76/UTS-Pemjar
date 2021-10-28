@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/apk_foto"
+        android:title="Apk Edit Foto">
+        <menu>
+            <item
+                android:id="@+id/apk1_1"
+                android:title="Photoshop" />
+            <item
+                android:id="@+id/apk1_2"
+                android:title="Lightroom" />
+            <item
+                android:id="@+id/apk1_3"
+                android:title="Snapseed" />
+            <item
+                android:id="@+id/apk1_4"
+                android:title="VSCO" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/apk_vidio"
+        android:title="Apk Edit Vidio">
+        <menu >
+            <item
+                android:id="@+id/apk2_1"
+                android:title="Kine Master" />
+            <item
+                android:id="@+id/apk2_2"
+                android:title="Power Director" />
+            <item
+                android:id="@+id/apk2_3"
+                android:title="VN Vidio" />
+        </menu>
+    </item>
+</menu>

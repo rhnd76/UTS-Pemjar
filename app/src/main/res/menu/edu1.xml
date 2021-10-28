@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1_edu1"
+        android:title="Triangle Exporsure" />
+    <item
+        android:id="@+id/menu2_edu1"
+        android:title="Angle Fotografi" />
+</menu>

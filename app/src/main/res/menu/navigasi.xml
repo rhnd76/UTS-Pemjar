@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_galery"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Galery"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nav_edukasi"
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="Edukasi"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nav_upload"
+        android:icon="@android:drawable/stat_sys_upload"
+        android:title="Upload"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nav_add_on"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add on"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Profil"
+        app:showAsAction="always" />
+</menu>

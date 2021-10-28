@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/apk1_add2"
+        android:title="Kine Master" />
+    <item
+        android:id="@+id/apk2_add2"
+        android:title="Power Director" />
+    <item
+        android:id="@+id/apk3_add2"
+        android:title="VN Vidio" />
+</menu>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemjar/app/src/main/res/drawable-v24/btn_top.xml" value="0.20208333333333334" />
+        <entry key="..\:/Pemjar/app/src/main/res/font/aclonica.xml" value="0.12395833333333334" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/activity_dashboard.xml" value="0.11503623188405797" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/activity_main7.xml" value="0.14" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/activity_main_web_service.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/activity_regirtasi.xml" value="0.25" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/frag_addon.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/frag_edukasi.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/frag_galery.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/frag_profil.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/frag_upload.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/list_profil.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/list_upload.xml" value="0.12771739130434784" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/login.xml" value="0.16" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/show_data_upload.xml" value="0.18" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/upload_foto_galery.xml" value="0.2" />
+        <entry key="..\:/Pemjar/app/src/main/res/layout/upload_with_kamera.xml" value="0.16" />
+        <entry key="..\:/Pemjar/app/src/main/res/menu/add2.xml" value="0.1859375" />
+        <entry key="..\:/Pemjar/app/src/main/res/menu/addon.xml" value="0.1859375" />
+        <entry key="..\:/Pemjar/app/src/main/res/menu/edu1.xml" value="0.1859375" />
+        <entry key="..\:/Pemjar/app/src/main/res/menu/navigasi.xml" value="0.1859375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

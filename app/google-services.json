@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "714094651715",
+    "firebase_url": "https://rio-raihan-d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rio-raihan-d",
+    "storage_bucket": "rio-raihan-d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:c7c890d269d7452fcce7f6",
+        "android_client_info": {
+          "package_name": "mi.polinema.uts_pemjar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:44a6913d3b9ec100cce7f6",
+        "android_client_info": {
+          "package_name": "polinema.mi.appx0d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:5ad7eb29ce4e510ecce7f6",
+        "android_client_info": {
+          "package_name": "polinema.mi.appx0e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:0537b27a327c5e85cce7f6",
+        "android_client_info": {
+          "package_name": "polinema.mi.auth_rio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:7d59f93cdae6f9e7cce7f6",
+        "android_client_info": {
+          "package_name": "polinema.mi.p6_rio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:f8a9104829882ee6cce7f6",
+        "android_client_info": {
+          "package_name": "polinema.mi.rioprak2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714094651715:android:e5ae3cc4c543b350cce7f6",
+        "android_client_info": {
+          "package_name": "polinema.mi.tugas2_rio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsO8Xh8eaXgsvdC4m_3pmUoUhSM8rAN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714094651715-vjfjtsbg5vkgk3ksjns2su9i2dl1t3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
